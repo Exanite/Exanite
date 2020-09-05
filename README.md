@@ -18,4 +18,4 @@ I am often on the [![Unity Developer Community](https://img.shields.io/badge/Uni
 ![](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Exanite&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Exanite&layout=compact) -->
