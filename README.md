@@ -4,7 +4,7 @@ My name is Exanite and I am a Unity / C# hobbyist programmer who is working on a
 
 [![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=28a745)](https://github.com/Exanite/Exanite.Arpg)
 
-I am often on the [Unity Developer Community](https://discord.gg/bu3bbby) on [Discord](https://discord.com) and many other servers throughout Discord. <br/>
+I am often on the [Unity Developer Community](https://discord.gg/bu3bbby) server and many others throughout [Discord](https://discord.com). <br/>
 You can find me on Discord as `Exanite#0996`
 
 [![Unity Developer Community](https://img.shields.io/badge/Unity_Developer_Community-informational?style=flat&color=111111)](https://discord.gg/bu3bbby)
