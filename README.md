@@ -2,7 +2,7 @@
 
 My name is Exanite and I am a Unity / C# hobbyist programmer who is working on an Action RPG inspired by the game Path of Exile.
 
-[![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=40b700)](https://github.com/Exanite/Exanite.Arpg)
+[![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=47c119)](https://github.com/Exanite/Exanite.Arpg)
 
 I am often on the [Unity Developer Community](https://discord.gg/bu3bbby) server and many others throughout [Discord](https://discord.com). <br/>
 You can find me on Discord as `Exanite#0996`
@@ -12,7 +12,7 @@ You can find me on Discord as `Exanite#0996`
 
 ## Languages and Technologies
 
-![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=40b700)
+![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=47c119)
 
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=1b1f23)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=6f42c1)
