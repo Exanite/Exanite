@@ -35,7 +35,3 @@ You can find me on Discord as `Exanite#0996`
 ![](https://img.shields.io/badge/Tool-SourceTree-informational?style=flat&logo=atlassian&logoColor=white&color=0073cc)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Exanite&layout=compact) -->
-
-## Other
-
-![](https://komarev.com/ghpvc/?username=Exanite&color=44cc11)
