@@ -46,4 +46,5 @@ You can find me on Discord as `Exanite#0996`
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/Language-JS-informational?style=flat&logo=javascript&logoColor=white&color=dbab09)
 
+![](https://img.shields.io/badge/Framework-ASP.NET%20Core-informational?style=flat&logo=.net&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=41b883)
