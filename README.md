@@ -1,11 +1,14 @@
 <!--
 Colors:
   Discord:  7289dA
-  Git:      f05032
+  Vue:      41b883
+  -
+  Orange:   f05032
+  Yellow:   f7df1e
   Green:    44cc11
   Blue:     0073cc
-  Black:    1b1f23
   Purple:   6f42c1
+  Black:    1b1f23
 -->
 
 # Hello!
@@ -26,7 +29,8 @@ You can find me on Discord as `Exanite#0996`
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=44cc11)
 
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=1b1f23)
-![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/IDE-VS%202019-informational?style=flat&logo=visual-studio&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Text-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0073cc)
 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=f05032)
@@ -35,3 +39,11 @@ You can find me on Discord as `Exanite#0996`
 ![](https://img.shields.io/badge/Tool-SourceTree-informational?style=flat&logo=atlassian&logoColor=white&color=0073cc)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Exanite&layout=compact) -->
+
+### Currently Learning
+
+![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=f05032)
+![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=0073cc)
+![](https://img.shields.io/badge/Language-JS-informational?style=flat&logo=javascript&logoColor=white&color=dbab09)
+
+![](https://img.shields.io/badge/Language-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=41b883)
