@@ -14,7 +14,7 @@ Colors:
 
 # Hello!
 
-My name is Exanite (William C.) and I am a Unity / C# hobbyist programmer who is working on an Action RPG inspired by the game Path of Exile.
+My name is Exanite (William C.) and I'm primarily a C# programmer, but I'm also learning the front-end of web development.
 
 [![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=44cc11)](https://github.com/Exanite/Exanite.Arpg)
 [![DiscordBot](https://img.shields.io/badge/Exanite-DiscordBot-informational?style=flat&logoColor=white&color=7289dA)](https://github.com/Exanite/DiscordBot)
