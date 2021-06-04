@@ -6,7 +6,7 @@ Colors:
   -
   Orange:   f05032
   Yellow:   f7df1e
-  Green:    178600
+  Green:    3cad0f
   Blue:     0073cc
   Purple:   6f42c1
   Black:    1b1f23
@@ -16,7 +16,7 @@ Colors:
 
 My name is Exanite (William C.) and I'm primarily a C# programmer, but I'm also learning the front-end of web development.
 
-[![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=178600)](https://github.com/Exanite/Exanite.Arpg)
+[![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Arpg)
 [![DiscordBot](https://img.shields.io/badge/Exanite-DiscordBot-informational?style=flat&logoColor=white&color=7289dA)](https://github.com/Exanite/DiscordBot)
 
 I am often on the [Unity Developer Community](https://discord.gg/bu3bbby) server and many others throughout [Discord](https://discord.com). <br/>
@@ -27,7 +27,7 @@ You can find me on Discord as `Exanite#0996`
 
 ## Languages and Technologies
 
-![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=178600)
+![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=3cad0f)
 
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=1b1f23)
 ![](https://img.shields.io/badge/IDE-VS%202019-informational?style=flat&logo=visual-studio&logoColor=white&color=6f42c1)
