@@ -3,6 +3,7 @@ Colors:
   Discord:  7289dA
   Vue:      41b883
   Sass:     cc6699
+  Tailwind: 38b2ac
   -
   Orange:   f05032
   Yellow:   f7df1e
@@ -27,9 +28,20 @@ You can find me on Discord as `Exanite#0996`
 
 ## Languages and Technologies
 
+### Languages
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=3cad0f)
+![](https://img.shields.io/badge/Language-JS-informational?style=flat&logo=javascript&logoColor=white&color=dbab09)
+![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=0073cc)
+![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=f05032)
 
+### Frameworks
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=1b1f23)
+![](https://img.shields.io/badge/Framework-ASP.NET%20Core-informational?style=flat&logo=dot-net&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue-dot-js&logoColor=white&color=41b883)
+![](https://img.shields.io/badge/Framework-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=38b2ac)
+
+### Tools
+![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=rider&logoColor=white&color=1b1f23)
 ![](https://img.shields.io/badge/IDE-VS%202019-informational?style=flat&logo=visual-studio&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/Text-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0073cc)
@@ -39,14 +51,6 @@ You can find me on Discord as `Exanite#0996`
 ![](https://img.shields.io/badge/Tool-Github%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/Tool-SourceTree-informational?style=flat&logo=atlassian&logoColor=white&color=0073cc)
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Exanite&layout=compact) -->
 
-### Currently Learning
 
-![](https://img.shields.io/badge/Language-JS-informational?style=flat&logo=javascript&logoColor=white&color=dbab09)
-![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=f05032)
-![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=0073cc)
-![](https://img.shields.io/badge/Language-CSS/SASS-informational?style=flat&logo=sass&logoColor=white&color=cc6699)
 
-![](https://img.shields.io/badge/Framework-ASP.NET%20Core-informational?style=flat&logo=dot-net&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue-dot-js&logoColor=white&color=41b883)
