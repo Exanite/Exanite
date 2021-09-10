@@ -51,6 +51,6 @@ You can find me on Discord as `Exanite#0996`
 ![](https://img.shields.io/badge/Tool-Github%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/Tool-SourceTree-informational?style=flat&logo=atlassian&logoColor=white&color=0073cc)
 
+### Learning
 
-
-
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=f05032)
