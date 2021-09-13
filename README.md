@@ -19,7 +19,9 @@ My name is Exanite (William C.) and I'm primarily a C# programmer, but I'm also 
 
 [![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Arpg)
 [![Exanite.Core](https://img.shields.io/badge/Exanite-Exanite.Core-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Core)
-[![DiscordBot](https://img.shields.io/badge/Exanite-DiscordBot-informational?style=flat&logoColor=white&color=7289dA)](https://github.com/Exanite/DiscordBot)
+
+[![Project Verdun](https://img.shields.io/badge/Exanite-Project%20Verdun-informational?style=flat&logoColor=white&color=f05032)](https://github.com/Exanite/ProjectVerdun)
+[![Discord Bot](https://img.shields.io/badge/Exanite-DiscordBot-informational?style=flat&logoColor=white&color=7289dA)](https://github.com/Exanite/DiscordBot)
 
 I am often on the [Unity Developer Community](https://discord.gg/bu3bbby) server and many others throughout [Discord](https://discord.com). <br/>
 You can find me on Discord as `Exanite#0996`
