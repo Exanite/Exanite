@@ -18,6 +18,7 @@ Colors:
 My name is Exanite (William C.) and I'm primarily a C# programmer, but I'm also learning the front-end of web development.
 
 [![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Arpg)
+[![Exanite.Core](https://img.shields.io/badge/Exanite-Exanite.Core-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Core)
 [![DiscordBot](https://img.shields.io/badge/Exanite-DiscordBot-informational?style=flat&logoColor=white&color=7289dA)](https://github.com/Exanite/DiscordBot)
 
 I am often on the [Unity Developer Community](https://discord.gg/bu3bbby) server and many others throughout [Discord](https://discord.com). <br/>
