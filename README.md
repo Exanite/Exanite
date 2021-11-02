@@ -11,8 +11,7 @@ My name is William Chen (Exanite). I'm a website, software, and Unity game devel
 I am often on the [Unity Developer Community](https://discord.gg/bu3bbby) server and many others throughout [Discord](https://discord.com). <br/>
 You can find me on Discord as `Exanite#0996`
 
-[![Unity Developer Community](https://img.shields.io/badge/Unity_Developer_Community-informational?style=flat&color=1b1f23)](https://discord.gg/bu3bbby)
-[![Discord](https://img.shields.io/badge/Discord-informational?style=flat&logo=discord&logoColor=white&color=7289dA)](https://discord.com)
+[![Unity Developer Community](https://img.shields.io/badge/Discord-Unity_Developer_Community-informational?style=flat&logo=discord&logoColor=white&color=1b1f23)](https://discord.gg/bu3bbby)
 
 ## Languages and Technologies
 
