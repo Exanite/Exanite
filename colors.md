@@ -1,6 +1,6 @@
 # Colors
 
-Colors that I commonly use.
+Colors that I commonly use when writing markdown.
 
 | Name     | Hex    | Color                                          |
 |----------|--------|------------------------------------------------|
@@ -10,7 +10,7 @@ Colors that I commonly use.
 | Tailwind | 38b2ac | ![](https://img.shields.io/badge/Color-38b2ac) |
 | ---      |        |                                                |
 | Orange   | f05032 | ![](https://img.shields.io/badge/Color-f05032) |
-| Yellow   | f7df1e | ![](https://img.shields.io/badge/Color-f7df1e) |
+| Yellow   | dbab09 | ![](https://img.shields.io/badge/Color-dbab09) |
 | Green    | 3cad0f | ![](https://img.shields.io/badge/Color-3cad0f) |
 | Blue     | 0073cc | ![](https://img.shields.io/badge/Color-0073cc) |
 | Purple   | 6f42c1 | ![](https://img.shields.io/badge/Color-6f42c1) |
