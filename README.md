@@ -16,8 +16,6 @@ You can find me on Discord as `Exanite#0996`
 
 ## Languages and Technologies
 
-## Main
-
 ### Languages
 
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=3cad0f)
