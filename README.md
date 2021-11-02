@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Exanite (William C.) and I'm primarily a C# programmer, but I'm also learning the front-end of web development.
+My name is William Chen (Exanite). I'm a website, software, and Unity game developer that is currently studying computer science at the University of Florida.
 
 [![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Arpg)
 [![Exanite.Core](https://img.shields.io/badge/Exanite-Exanite.Core-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Core)
