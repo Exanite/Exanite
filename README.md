@@ -19,7 +19,7 @@ You can find me on Discord as `Exanite#0996`
 ### Languages
 
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=3cad0f)
-![](https://img.shields.io/badge/Language-JS-informational?style=flat&logo=javascript&logoColor=white&color=dbab09)
+![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=f05032)
 
