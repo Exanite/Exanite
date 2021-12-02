@@ -44,5 +44,6 @@
 
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=f05032)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=0073cc)
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=1b1f23)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=1ecbfa)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=1b1f23)
