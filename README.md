@@ -23,7 +23,7 @@ You can find me on Discord as `Exanite#0996`
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=f05032)
 
-### Frameworks
+### Technologies
 
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=1b1f23)
 ![](https://img.shields.io/badge/Framework-ASP.NET%20Core-informational?style=flat&logo=dot-net&logoColor=white&color=6f42c1)
@@ -36,8 +36,9 @@ You can find me on Discord as `Exanite#0996`
 ![](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&logoColor=white&color=1b1f23)
 ![](https://img.shields.io/badge/Tool-Github%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/Tool-SourceTree-informational?style=flat&logo=atlassian&logoColor=white&color=0073cc)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=0073cc)
 
-![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&logo=rider&logoColor=white&color=1b1f23)
+![](https://img.shields.io/badge/IDE-Jetbrains%20Rider-informational?style=flat&logo=rider&logoColor=white&color=1b1f23)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0073cc)
 
 ### [Other](https://github.com/Exanite/Exanite/blob/main/tech.md)
