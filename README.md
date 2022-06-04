@@ -28,7 +28,7 @@ My name is William Chen (Exanite). I'm a website, software, and game developer t
 
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=1b1f23)
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=1ecbfa)
-![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue-dot-js&logoColor=white&color=41b883)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vuedotjs&logoColor=white&color=41b883)
 
 ![](https://img.shields.io/badge/Framework-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=38b2ac)
 
