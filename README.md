@@ -10,8 +10,13 @@ My name is William Chen (Exanite). I'm a website, software, and game developer t
 
 ## Socials
 
-[![](https://img.shields.io/badge/Discord-Exanite%230996-informational?style=flat&logo=discord&logoColor=white&color=5865f2)](https://discordapp.com/users/253338867950813194)
-[![](https://img.shields.io/badge/LinkedIn-William%20Chen-informational?style=flat&logo=linkedin&logoColor=white&color=0073cc)](https://www.linkedin.com/in/wchen-exanite/)
+|                                                                                     Social                                                                                     |                         Link                          |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------:|
+| [![](https://img.shields.io/badge/Discord-Exanite%230996-informational?style=flat&logo=discord&logoColor=white&color=5865f2)](https://discordapp.com/users/253338867950813194) |                          ---                          |
+|   [![](https://img.shields.io/badge/LinkedIn-William%20Chen-informational?style=flat&logo=linkedin&logoColor=white&color=0073cc)](https://www.linkedin.com/in/wchen-exanite)   | [LinkedIn](https://www.linkedin.com/in/wchen-exanite) |
+
+
+
 
 ## Languages and Technologies
 
