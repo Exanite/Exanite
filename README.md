@@ -2,12 +2,6 @@
 
 My name is William Chen (Exanite). I'm a website, software, and game developer that is currently studying computer science at the University of Florida.
 
-[![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Arpg)
-[![Exanite.Core](https://img.shields.io/badge/Exanite-Exanite.Core-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Core)
-
-[![Project Verdun](https://img.shields.io/badge/Exanite-Project%20Verdun-informational?style=flat&logoColor=white&color=f05032)](https://github.com/Exanite/ProjectVerdun)
-[![Discord Bot](https://img.shields.io/badge/Exanite-DiscordBot-informational?style=flat&logoColor=white&color=5865f2)](https://github.com/Exanite/DiscordBot)
-
 ## Socials
 
 |                                                                                     Social                                                                                     |                         Link                          |
@@ -15,8 +9,14 @@ My name is William Chen (Exanite). I'm a website, software, and game developer t
 | [![](https://img.shields.io/badge/Discord-Exanite%230996-informational?style=flat&logo=discord&logoColor=white&color=5865f2)](https://discordapp.com/users/253338867950813194) |                          ---                          |
 |   [![](https://img.shields.io/badge/LinkedIn-William%20Chen-informational?style=flat&logo=linkedin&logoColor=white&color=0073cc)](https://www.linkedin.com/in/wchen-exanite)   | [LinkedIn](https://www.linkedin.com/in/wchen-exanite) |
 
+## Projects
 
-
+|                                                                                  Project                                                                                   |                            Link                            |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|
+|    [![Exanite.Arpg](https://img.shields.io/badge/Exanite-Exanite.Arpg-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Arpg)     |  [Exanite.Arpg](https://github.com/Exanite/Exanite.Arpg)   |
+|    [![Exanite.Core](https://img.shields.io/badge/Exanite-Exanite.Core-informational?style=flat&logoColor=white&color=3cad0f)](https://github.com/Exanite/Exanite.Core)     |  [Exanite.Core](https://github.com/Exanite/Exanite.Core)   |
+| [![Project Verdun](https://img.shields.io/badge/Exanite-Project%20Verdun-informational?style=flat&logoColor=white&color=f05032)](https://github.com/Exanite/ProjectVerdun) | [Project Verdun](https://github.com/Exanite/ProjectVerdun) |
+|     [![Discord Bot](https://img.shields.io/badge/Exanite-Discord%20Bot-informational?style=flat&logoColor=white&color=5865f2)](https://github.com/Exanite/DiscordBot)      |    [Discord Bot](https://github.com/Exanite/DiscordBot)    |
 
 ## Languages and Technologies
 
