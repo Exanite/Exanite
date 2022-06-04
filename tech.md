@@ -7,12 +7,19 @@
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=f05032)
 
-### Technologies
+### Web Dev
+
+![](https://img.shields.io/badge/Framework-ASP.NET%20Core-informational?style=flat&logo=dotnet&logoColor=white&color=6f42c1)
+
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=1b1f23)
+![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=1ecbfa)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue-dot-js&logoColor=white&color=41b883)
+
+![](https://img.shields.io/badge/Framework-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=38b2ac)
+
+### Game Dev
 
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=1b1f23)
-![](https://img.shields.io/badge/Framework-ASP.NET%20Core-informational?style=flat&logo=dot-net&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&logo=vue-dot-js&logoColor=white&color=41b883)
-![](https://img.shields.io/badge/Framework-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=38b2ac)
 
 ### Tools
 
@@ -30,6 +37,7 @@
 ### Languages
 
 ![](https://img.shields.io/badge/Language-JS-informational?style=flat&logo=javascript&logoColor=white&color=dbab09)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=0073cc)
 
 ### Technologies
 
@@ -42,9 +50,6 @@
 ## Learning
 
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=f05032)
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=0073cc)
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=1b1f23)
 
 ![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=1b1f23)
-![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=1ecbfa)
-![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=1b1f23)
