@@ -2,6 +2,9 @@
 
 My name is William Chen (Exanite). I'm a website, software, and game developer that is currently studying computer science at the University of Florida.
 
+Currently building the tech stack and infrastructure for https://github.com/DevLUp-Inc. \
+Check out DevLUp's website here: http://devlup.org/
+
 ## Socials
 
 | Social                                                                                                                                                                         |                         Link                          |
