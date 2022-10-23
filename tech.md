@@ -41,6 +41,9 @@
 
 ### Technologies
 
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=1b1f23)
+![](https://img.shields.io/badge/Database-MongoDb-informational?style=flat&logo=mongodb&logoColor=white&color=3cad0f)
+
 ### Tools
 
 ![](https://img.shields.io/badge/IDE-VS%202019-informational?style=flat&logo=visual-studio&logoColor=white&color=6f42c1)
@@ -49,7 +52,4 @@
 
 ## Learning
 
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=f05032)
-![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=rust&logoColor=white&color=1b1f23)
-
-![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=1b1f23)
+![](https://img.shields.io/badge/Tool-Terraform%20CDK-informational?style=flat&logo=terraform&logoColor=white&color=6f42c1)
