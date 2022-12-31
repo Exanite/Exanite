@@ -47,8 +47,8 @@
 ### Tools
 
 ![](https://img.shields.io/badge/IDE-VS%202019-informational?style=flat&logo=visual-studio&logoColor=white&color=6f42c1)
-![](https://img.shields.io/badge/Text-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0073cc)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=dbab09)
+![](https://img.shields.io/badge/IDE-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0073cc)
+![](https://img.shields.io/badge/OS-Linux%20Servers-informational?style=flat&logo=linux&logoColor=white&color=dbab09)
 
 ## Learning
 
