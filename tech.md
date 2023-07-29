@@ -1,4 +1,4 @@
-## Main
+## Primary
 
 ### Languages
 
