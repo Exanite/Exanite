@@ -12,14 +12,12 @@ Check out DevLUp's website here: https://devlup.org/
 | [![](https://img.shields.io/badge/Discord-@exanite-informational?style=flat&logo=discord&logoColor=white&color=5865f2)](https://discordapp.com/users/253338867950813194) |                          ---                          |
 | [![](https://img.shields.io/badge/LinkedIn-William%20Chen-informational?style=flat&logo=linkedin&logoColor=white&color=0073cc)](https://www.linkedin.com/in/wchen-exanite)     | [LinkedIn](https://www.linkedin.com/in/wchen-exanite) |
 
-## Languages and Technologies
+## Primary Languages and Technologies
 
 ### Languages
 
 [![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=3cad0f)](#)
 [![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=0073cc)](#)
-[![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=0073cc)](#)
-[![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=f05032)](#)
 
 ### Web Dev
 
